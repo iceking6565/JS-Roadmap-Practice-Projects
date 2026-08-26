@@ -1,3 +1,8 @@
-# Greeting-Builder-for-JS-Roadmap
+# Practice Projects
 
-Project URL: https://roadmap.sh/projects/js-greeting-builder
+Project URLs:
+Greeting Builder
+https://roadmap.sh/projects/js-greeting-builder
+
+Temperature Converter
+https://roadmap.sh/projects/js-temperature-converter
